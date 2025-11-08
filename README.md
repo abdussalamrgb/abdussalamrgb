@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img src="https://avatars.githubusercontent.com/u/56117748?v=4">
-<h1 align="center">Hi 👋, I'm A. SalaM</h1>
+
 <h3 align="center">A passionate frontend developer from InElite Full Stack Web Designer Developer | WP Expertdia</h3>
 
 - 🔭 I’m currently working on [Freelancer](https://www.freelancer.com.bd/dashboard)
