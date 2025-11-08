@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQH0AoteHQleLA/profile-displaybackgroundimage-shrink_350_1400/B4DZoNCynUHYAY-/0/1761155428746?e=1764201600&v=beta&t=7XqcyhpLBhOBgnySZJrCSqNBemGvzo1NChWwx3_R8Jw">
 
 <h3 align="center">A passionate frontend developer from InElite Full Stack Web Designer Developer | WP Expertdia</h3>
 
