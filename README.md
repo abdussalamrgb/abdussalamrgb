@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQH0AoteHQleLA/profile-displaybackgroundimage-shrink_350_1400/B4DZoNCynUHYAY-/0/1761155428746?e=1767830400&v=beta&t=FN7maLP7Fs6Rn31bKasmBEEg_yYakuOaUIm6bhrrNeI">
 
-<h3 align="center">A passionate frontend developer from InElite Full Stack Web Designer Developer | WP Expertdia</h3>
+<h3 align="center">A passionate frontend developer from In Full Stack Web  Developer | WP Expert</h3>
 
 - 🔭 I’m currently working on [Freelancer](https://www.freelancer.com.bd/dashboard)
 
